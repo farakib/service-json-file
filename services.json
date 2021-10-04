@@ -1,7 +1,7 @@
 [
     {   "id":1, 
         "title":"Photography",
-        "img": "https://demo.themefisher.com/educenter/images/courses/course-1.jpg",
+        "img": "https://raw.githubusercontent.com/farakib/service-json-file/main/images/course-1.jpg",
         "description":"I have defined 7 core reasons why you as a photographer need to consider content marketingas a big part of your marketing efforts,Build credibilitywith prospects who may not know you or what you do."
 
     },
